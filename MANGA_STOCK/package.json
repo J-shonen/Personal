@@ -1,0 +1,16 @@
+{
+  "name": "manga_stock",
+  "version": "1.0.0",
+  "main": "Manga_Stock.js",
+  "bin": "./Manga_Stock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "old_Shonen",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^12.0.0"
+  }
+}
